@@ -1,0 +1,11 @@
+../flask_babel/__init__.py
+../flask_babel/_compat.py
+../flask_babel/__init__.pyc
+../flask_babel/_compat.pyc
+./
+dependency_links.txt
+not-zip-safe
+PKG-INFO
+requires.txt
+SOURCES.txt
+top_level.txt

@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: flipflop
+Version: 1.0
+Summary: FastCGI wrapper for WSGI applications
+Home-page: https://github.com/Kozea/flipflop
+Author: Guillaume Ayoub
+Author-email: guillaume.ayoub@kozea.fr
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Server
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Provides: flipflop

@@ -1,5 +1,7 @@
 #Pythonic OCR
-A convolutional neural network implemented in pure numpy. Web demo [here](https://pythonic-ocr.herokuapp.com/)
+[Website](https://pythonic-ocr.herokuapp.com/)
+
+A convolutional neural network implemented in pure numpy.
 
 Description
 -----------

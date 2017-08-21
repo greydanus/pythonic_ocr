@@ -1,4 +1,4 @@
-#Pythonic OCR
+# Pythonic OCR
 [Website](https://pythonic-ocr.herokuapp.com/)
 
 A convolutional neural network implemented in pure numpy.
